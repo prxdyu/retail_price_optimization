@@ -1,5 +1,7 @@
 # Retail Price Optimization for Burger Café
 
+![Retail Price Optimization](https://miro.medium.com/v2/resize:fit:1400/1*MBiak1dDipFj13lyQaEwtg.png)
+
 Welcome to my project repository for retail price optimization of food products in a burger café! This project focuses on leveraging data analytics and machine learning to determine optimal prices for food items to  maximize profitability and customer satisfaction.
 
 ## Overview
